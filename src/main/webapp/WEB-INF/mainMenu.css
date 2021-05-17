@@ -1,0 +1,11 @@
+.menu{
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+.menu a{
+    text-decoration: #ff6f20;
+}
+.menu li{
+    display: inline;
+}
